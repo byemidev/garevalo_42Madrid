@@ -1,5 +1,3 @@
-# Choose one 👇🏾
-
 <a href="https://github.com/zenpopeye/libft">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byemidev&repo=libft&theme=catppuccin_mocha" />
 </a>
